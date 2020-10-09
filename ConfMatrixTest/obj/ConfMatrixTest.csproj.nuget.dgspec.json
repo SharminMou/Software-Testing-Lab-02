@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrixTest\\ConfMatrixTest.csproj": {}
+  },
+  "projects": {
+    "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrixTest\\ConfMatrixTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrixTest\\ConfMatrixTest.csproj",
+        "projectName": "ConfMatrixTest",
+        "projectPath": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrixTest\\ConfMatrixTest.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrixTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrix\\ConfMatrix.csproj": {
+                "projectPath": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrix\\ConfMatrix.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrix\\ConfMatrix.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrix\\ConfMatrix.csproj",
+        "projectName": "ConfMatrix",
+        "projectPath": "E:\\Study\\Academics\\3-2\\SWE 4604(Softwaree Testing and Quality Assurance Lab)\\Lab 02\\Software-Testing-Lab-02\\ConfMatrix\\ConfMatrix.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
